@@ -3,7 +3,7 @@
 echo LocoDroneX simulation Starter - Made by CodaCM
 
 echo Starting Spyder
-start C:\*locopthon location*\LocoPython_3-8-0\Spyder.exe
+start C:\*locopython location*\LocoPython_3-8-0\Spyder.exe
 echo Starting LocoPython simulation
 start C:\*locopython location*\LocoPython_3-8-0\scripts\sim_scripts\start_dronekit.bat
 echo Waiting for MavProxy to start...
